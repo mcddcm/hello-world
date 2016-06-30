@@ -1,5 +1,4 @@
-# hello-world
-Repository Tutorial
+Terms & Conditions
 
 The purpose of this commit message is solely to evaluate the function of 'commit messages' within the GitHub framework.
 Under no circumstances shall this commit message be interpreted as a comprehensive understanding of GitHub and its function(s).
